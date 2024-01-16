@@ -41,3 +41,5 @@ And who knows, maybe one day, amidst the lines of code and pixelated landscapes,
     
 
 These are just a taste of the wonders the pygame community has conjured up. Imagine what we can create together, with pygame-ce as our wand! So, what are you waiting for? Grab your controller, open your code editor, and join the adventure!
+
+Pls check out my website [https://chaitanyav.dev](https://chaitanyav.dev)

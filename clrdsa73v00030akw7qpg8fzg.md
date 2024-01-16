@@ -3,6 +3,7 @@ title: "Navigating the World of Game Development: A Beginner's Guide"
 datePublished: Sun Jan 14 2024 17:42:14 GMT+0000 (Coordinated Universal Time)
 cuid: clrdsa73v00030akw7qpg8fzg
 slug: navigating-the-world-of-game-development-a-beginners-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705415892890/96bf5e2c-217b-4a6e-919d-c5444ffcc97e.png
 tags: game-development
 
 ---

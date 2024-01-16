@@ -22,4 +22,4 @@ tags: web-development
 * The Role of AI in Design: A glimpse into how artificial intelligence is influencing the design process.
     
 
-**Conclusion:** Encourage your audience to experiment with new design approaches, fostering creativity and innovation in the rapidly evolving field of web design.
+Pls check out my website [https://chaitanyav.dev](https://chaitanyav.dev)

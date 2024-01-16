@@ -3,6 +3,7 @@ title: "Mastering the Art of Web Design: Tips and Trends for 2024"
 datePublished: Sun Jan 14 2024 17:43:33 GMT+0000 (Coordinated Universal Time)
 cuid: clrdsbvz700030al08i848mry
 slug: mastering-the-art-of-web-design-tips-and-trends-for-2024
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705415905466/5cebcfa0-4403-4e8d-b422-57fa82f7af39.png
 tags: web-development
 
 ---

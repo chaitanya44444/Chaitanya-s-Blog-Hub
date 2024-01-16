@@ -3,6 +3,7 @@ title: "Demystifying Full-Stack Development: A Holistic Approach to Building Web
 datePublished: Sun Jan 14 2024 17:44:12 GMT+0000 (Coordinated Universal Time)
 cuid: clrdscq8c000109l5hyc1658w
 slug: demystifying-full-stack-development-a-holistic-approach-to-building-web-applications
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705415918096/de99c114-825f-4b5d-9081-9fe5485d9c73.png
 
 ---
 

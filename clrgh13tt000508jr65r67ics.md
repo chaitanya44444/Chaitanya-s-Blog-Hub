@@ -1,6 +1,6 @@
 ---
 title: "Solo Leveling: From E-Rank to Shadow Monarch"
-datePublished: Tue Jan 16 2024 14:50:32 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Aug 23 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clrgh13tt000508jr65r67ics
 slug: solo-leveling-from-e-rank-to-shadow-monarch
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705416559159/7e5a5ab7-c0a2-4baf-b9f5-965e15148e84.jpeg
